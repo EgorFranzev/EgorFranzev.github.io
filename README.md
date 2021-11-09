@@ -1,2 +1,2 @@
-# EgorFranzev.github.io
+# Егор Францев
 Мой первый сайт
